@@ -1,0 +1,4 @@
+name: BetterWhitelist
+version: 1.0.0
+main: me.luucx7.whitelist.bungee.BetterWhitelistBungee
+author: Luucx7

@@ -1,0 +1,6 @@
+whitelist:
+  habilitar: true
+  mensagem: '&cO servidor ainda não está disponível!'
+
+permitidos:
+- 'Luucx7'
